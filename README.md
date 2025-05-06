@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vaishnavi-tank
-- 👀 I’m interested in Full Stack Developer
+- 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning MERN
 - 📫 How to reach me vaishnavitank95@gmail.com
 
